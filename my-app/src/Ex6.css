@@ -1,0 +1,10 @@
+.listcontainer{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height: 50px;
+    width: 150px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    margin:auto;
+}
